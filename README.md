@@ -2,7 +2,7 @@
 Computer da bici GPS con schermo LCD 128x64.
 
 Materiali utilizzati:
-Arduino Nano Every (Mega 4809)
+Arduino Nano Every (Mega 4809)\n
 Modulo GPS basato su un NEO-6M
 Batteria al litio da 650mA
 Modulo di ricarica per la batteria (TP4056)
