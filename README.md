@@ -11,11 +11,11 @@ Batteria al litio da 650mA
 
 Modulo di ricarica per la batteria (TP4056)
 
-2x reisistenze da 10Kohm utilizzati tra per collegare al GND i pin dei due pulsanti
+2x resistenze da 10Kohm utilizzati tra per collegare al GND i pin dei due pulsanti
 
 2x pulsanti
 
-Interruttore
+1x Interruttore
 
 1x resistenza da 500Kohm (tra il led rosso del modulo di ricarica al pin A7)
 
