@@ -30,4 +30,5 @@ Il computer acceso mostra una schermata di home con velocità, data, ora, direzi
 Si può accedere al menù di impostazioni con il primo pulsante e cambiare la selezione con il secondo
 
 Aggiornamento giugno 2022:    Schermo LCD distrutto a causa di una caduta, il computer di per sè però non è danneggiato.
+
 Aggiornamento settembre 2022: Sostituito lo schermo LCD con un modello simile (ST7565) più grande.
