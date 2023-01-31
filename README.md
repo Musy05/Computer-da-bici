@@ -29,6 +29,7 @@ Note: il pin A7 è collegato al led rosso del modulo di ricarica.
 Il computer acceso mostra una schermata di home con velocità, data, ora, direzione (solo quando si è in movimento) e altitudine.
 Si può accedere al menù di impostazioni con il primo pulsante e cambiare la selezione con il secondo
 
+### Stato:
 Aggiornamento giugno 2022:    Schermo LCD distrutto a causa di una caduta, il computer di per sè però non è danneggiato.
 
 Aggiornamento settembre 2022: Sostituito lo schermo LCD con un modello simile (ST7565) più grande.
